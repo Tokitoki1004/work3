@@ -14,7 +14,7 @@ function f($a, $b){
     $A = $a + $b;
     return $A;
 }   
-echo f(9, 3);
+echo f(9, 8);
 echo "\n";
 echo f(3, 4);
 echo "\n";
